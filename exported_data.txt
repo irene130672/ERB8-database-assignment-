@@ -1,0 +1,63 @@
+products=[
+{Name: cantaloupe, Price: 5.00, Cost: 2.30, Stock: 72}
+{Name: lychee, Price: 12.00, Cost: 6.80, Stock: 36}
+{Name: persimmon, Price: 6.00, Cost: 2.50, Stock: 58}
+{Name: dragonfruit, Price: 10.00, Cost: 4.20, Stock: 29}
+{Name: papaya, Price: 7.00, Cost: 3.10, Stock: 44}
+{Name: guava, Price: 4.00, Cost: 1.80, Stock: 85}
+{Name: passionfruit, Price: 18.00, Cost: 9.50, Stock: 22}
+{Name: starfruit, Price: 8.00, Cost: 3.70, Stock: 51}
+{Name: mulberry, Price: 22.00, Cost: 12.60, Stock: 18}
+{Name: jackfruit, Price: 15.00, Cost: 6.30, Stock: 30}
+{Name: clementine, Price: 3.00, Cost: 1.20, Stock: 96}
+{Name: tangerine, Price: 4.00, Cost: 1.50, Stock: 105}
+{Name: kiwifruit, Price: 9.00, Cost: 4.80, Stock: 47}
+{Name: nectarine, Price: 7.00, Cost: 3.20, Stock: 63}
+{Name: honeydew, Price: 6.00, Cost: 2.70, Stock: 55}
+{Name: raspberry, Price: 25.00, Cost: 14.20, Stock: 20}
+{Name: boysenberry, Price: 28.00, Cost: 16.50, Stock: 15}
+{Name: cranberry, Price: 19.00, Cost: 10.80, Stock: 27}
+{Name: date, Price: 11.00, Cost: 5.50, Stock: 78}
+{Name: elderberry, Price: 30.00, Cost: 18.30, Stock: 12}
+]
+customers=[
+{Name: Cooper, Phone: 91234567, Email: cooper123@gmail.com}
+{Name: Bell, Phone: 68542937, Email: bell456@gmail.com}
+{Name: Carter, Phone: 57894563, Email: carter789@gmail.com}
+{Name: Fisher, Phone: 98249765, Email: fisher829@gmail.com}
+{Name: Mitchell, Phone: 69876543, Email: mitchell987@gmail.com}
+{Name: Parker, Phone: 53456789, Email: parker678@gmail.com}
+{Name: Edwards, Phone: 98172635, Email: edwards901@gmail.com}
+{Name: Collins, Phone: 64567890, Email: collins234@gmail.com}
+{Name: Stewart, Phone: 57281936, Email: stewart567@gmail.com}
+{Name: Sanchez, Phone: 95678901, Email: sanchez890@gmail.com}
+{Name: Morris, Phone: 66372819, Email: morris135@gmail.com}
+{Name: Rogers, Phone: 56789012, Email: rogers246@gmail.com}
+{Name: Reed, Phone: 95463728, Email: reed357@gmail.com}
+{Name: Cook, Phone: 67890123, Email: cook468@gmail.com}
+{Name: Morgan, Phone: 54352617, Email: morgan579@gmail.com}
+{Name: Murphy, Phone: 63241506, Email: murphy791@gmail.com}
+{Name: Bailey, Phone: 59012345, Email: bailey802@gmail.com}
+{Name: Rivera, Phone: 92130495, Email: rivera913@gmail.com}
+]
+suppliers=[
+{Name: Miller, Phone: 91234567, Email: miller@outlook.com}
+{Name: Davis, Phone: 98765432, Email: davis@gmail.com}
+{Name: Wilson, Phone: 61234567, Email: wilson@yahoo.com}
+{Name: Taylor, Phone: 68765432, Email: taylor@163.com}
+{Name: Brown, Phone: 51234567, Email: brown@gmail.com}
+{Name: Martinez, Phone: 58765432, Email: martinez@outlook.com}
+{Name: Garcia, Phone: 92345678, Email: garcia@yahoo.com}
+{Name: Rodriguez, Phone: 62345678, Email: rodriguez@163.com}
+{Name: Hernandez, Phone: 93456789, Email: hernandez@outlook.com}
+{Name: Moore, Phone: 63456789, Email: moore@yahoo.com}
+{Name: Clark, Phone: 53456789, Email: clark@163.com}
+{Name: Lewis, Phone: 94567890, Email: lewis@gmail.com}
+{Name: Walker, Phone: 64567890, Email: walker@outlook.com}
+{Name: Hall, Phone: 54567890, Email: hall@yahoo.com}
+{Name: Allen, Phone: 95678901, Email: allen@163.com}
+{Name: Young, Phone: 65678901, Email: young@gmail.com}
+{Name: King, Phone: 55678901, Email: king@outlook.com}
+{Name: Wright, Phone: 96789012, Email: wright@yahoo.com}
+{Name: Scott, Phone: 66789012, Email: scott@163.com}
+]
