@@ -38,11 +38,11 @@ customers=[
 {"name":"Reed","phone":"95463728","email":"reed357@gmail.com"},
 {"name":"Cook","phone":"67890123","email":"cook468@gmail.com"},
 {"name":"Morgan","phone":"54352617","email":"morgan579@gmail.com"},
-{"name":"Bell","phone":"98901234","email":"bell680@gmail.com"},
+{"name":"Belly","phone":"98901234","email":"bell680@gmail.com"},
 {"name":"Murphy","phone":"63241506","email":"murphy791@gmail.com"},
 {"name":"Bailey","phone":"59012345","email":"bailey802@gmail.com"},
 {"name":"Rivera","phone":"92130495","email":"rivera913@gmail.com"},
-{"name":"Cooper","phone":"60123456","email":"cooper024@gmail.com"}
+{"name":"Coopersy","phone":"60123456","email":"cooper024@gmail.com"}
 ]
 
 
@@ -55,7 +55,7 @@ suppliers=[
 {"name":"Martinez","phone":"58765432","email":"martinez@outlook.com"},
 {"name":"Garcia","phone":"92345678","email":"garcia@yahoo.com"},
 {"name":"Rodriguez","phone":"62345678","email":"rodriguez@163.com"},
-{"name":"Wilson","phone":"52345678","email":"wilson2@gmail.com"},
+{"name":"Will","phone":"52345678","email":"wilson2@gmail.com"},
 {"name":"Hernandez","phone":"93456789","email":"hernandez@outlook.com"},
 {"name":"Moore","phone":"63456789","email":"moore@yahoo.com"},
 {"name":"Clark","phone":"53456789","email":"clark@163.com"},
